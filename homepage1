@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Welcome to Daytona Adventures</h1>
-    <p>The best ‘adventure & experience’ site in Croatia</p>
+    <p>The best adventure & experience site in Croatia</p>
     <button onclick="displayAlert()">Click Me!</button>
     <script src="scripts.js"></script>
 </body>
